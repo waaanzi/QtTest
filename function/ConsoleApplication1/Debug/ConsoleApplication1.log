@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+c:\users\zhangli01\desktop\demo\function\consoleapplication1\consoleapplication1.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  ConsoleApplication1.vcxproj -> C:\Users\zhangli01\Desktop\demo\function\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\zhangli01\Desktop\demo\function\Debug\ConsoleApplication1.pdb (Full PDB)
